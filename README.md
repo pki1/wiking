@@ -12,5 +12,5 @@ earn some money.
 -	2013
 	-	__January - February:__ Research
 	-	__Mars - April:__ Begin developing
-	-	__May:__ Nothing.
+	-	__May:__ Finals! Solve world hunger while studying for finals!
 	-	__June - August:__ Beta version
