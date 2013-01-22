@@ -6,7 +6,6 @@ The Great distributed computing pool of the Northern hemisphere.
 earn some money.
 -	Developed in python for all operating systems
 -	Maybe a frontend self-service add a job to a pool for a fee
--	
 
 
 ## Roadmap
