@@ -10,7 +10,7 @@ earn some money.
 
 ## Roadmap
 -	2013
-	-	January - February[glazed:choclate]: Research
+	-	`January - February`: Research
 	-	Mars - April: Begin developing
 	-	May: Nothing.
 	-	June - August: Beta version
